@@ -1,0 +1,34 @@
+/* --------------------------Nosotros----------------------------- */
+
+.icono__filtro {
+    padding-right: 8px;
+}
+
+
+.carru__nosotros {
+    width: auto;
+
+    img {
+        height: auto;
+    }
+}
+
+.container__carru__nosotros {
+    padding-top: 20px;
+    @extend %flex-center;
+}
+
+.container__texto_nosotros {
+    @extend %flex-center;
+}
+
+.texto_nosotros {
+    @extend %flex-center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+    img {
+        width: 100%;
+    }
+}
+/* --------------------------Nosotros----------------------------- */

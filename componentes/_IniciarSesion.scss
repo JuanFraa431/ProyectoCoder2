@@ -1,0 +1,145 @@
+/* --------------------------iniciar sesion----------------------------- */
+
+#IniciarSesion {
+    background: #000;
+}
+
+.contenedor__form {
+    width: 360px;
+    border-radius: 10px;
+    border: 1px solid #fff;
+    transition: all 0.5s;
+
+    &:hover {
+        box-shadow: 0 0 15px #969595;
+    }
+}
+
+.container__form__principal {
+    width: 100%;
+    padding-top: 50px;
+    @extend %flex-center;
+    margin-bottom: 30px;
+}
+
+.form__sesion,
+.form__sesion2 {
+    @extend %flex-center;
+    padding-top: 20px;
+}
+
+.form__sesion i {
+    padding-right: 6px;
+}
+
+.form__sesion2 {
+    i {
+        padding-right: 6px;
+    }
+
+    padding-top: 10px;
+}
+
+.linea {
+    border-top: 1px solid #000;
+    height: 2px;
+    max-width: 200px;
+    padding: 0;
+    margin: 20px auto 0;
+    background: #fff;
+}
+
+.form__sesion input,
+.hola__soyunform {
+    background-color: #000;
+}
+
+.recuadro__email {
+    margin-bottom: 10px;
+    @extend %flex-center;
+    width: 100%;
+}
+
+.recuadro__pass {
+    @extend %flex-center;
+    width: 100%;
+}
+
+.explicacion {
+    color: #fff;
+    padding-bottom: 20px;
+    font-size: 11px;
+    padding-top: 3px;
+}
+
+.cuenta {
+    color: #fff;
+    font-size: 11px;
+    display: flex;
+}
+
+.explicacion2 {
+    color: #fff;
+    font-size: 11px;
+    display: flex;
+    padding-top: 3px;
+    justify-content: flex-end;
+    text-decoration: none;
+}
+
+.cuenta {
+    padding-top: 20px;
+    justify-content: center;
+}
+
+.cuenta__nueva {
+    color: #fff;
+    text-decoration: none;
+    padding-left: 2px;
+
+    &:hover {
+        font-weight: 700;
+    }
+}
+
+.explicacion2:hover {
+    font-weight: 700;
+}
+
+.acomodar {
+    width: 30%;
+    @extend %flex-around;
+    flex-direction: row;
+    align-items: center;
+}
+
+#boton__correccion,
+.simesale {
+    @extend %flex-center;
+}
+
+.form__sesion input {
+    outline: 0;
+    border: 1px solid #fff;
+    font-size: 1rem;
+    border-radius: 5px 5px 5px 5px;
+}
+
+#boton__correccion button {
+    width: 300px;
+}
+
+.estilobusqueda {
+    border-radius: 10px;
+    border: #fff;
+}
+
+.form__sesion__texto {
+    font-size: 10px;
+}
+
+.header__unete {
+    padding-bottom: 120px;
+}
+
+/* --------------------------iniciar sesion----------------------------- */

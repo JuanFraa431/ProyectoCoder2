@@ -1,0 +1,13 @@
+/* --------------------------Logos----------------------------- */
+
+.logo img {
+    transition: all 0.5s;
+    cursor: pointer;
+    filter: invert(100%);
+
+    &:hover {
+        transform: scale(1.2);
+    }
+}
+
+/* --------------------------Logos----------------------------- */
