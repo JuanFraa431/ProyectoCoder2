@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Juan Francisco Alaniz</h1>
-<h3 align="center">Estudiante de ingeniería en sistemas y realizando cursos de programación full stack en Coderhouse</h3>
+<h3 align="center">Estudiante de ingeniería en sistemas</h3>
 
 - 🔭 Actualmente realizo las entregas de Coderhouse [bornagainstore.infinityfreeapp.com](bornagainstore.infinityfreeapp.com)
 
-- 🌱 Estoy en constante aprendizaje debido a que estoy realizando **Cursos y en la facultad estoy realizando la carrera de Ingenieria en sistemas de informacion**
+- 🌱 Estoy en constante aprendizaje debido a que estoy realizando **cursos de programación full stack en Coderhouse**
 
 - 📫 Podes ponerte en contacto conmigo atreves de este Mail: **Juanfraa032@gmail.com**
 
