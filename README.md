@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Juan Francisco Alaniz</h1>
-<h3 align="center">Estudiante de ingeniería en sistemas</h3>
+<h3 align="center">Estudiante de ingeniería en sistemas de informacion</h3>
 
 - 🔭 Actualmente realizo las entregas de Coderhouse [bornagainstore.infinityfreeapp.com](bornagainstore.infinityfreeapp.com)
 
