@@ -1,0 +1,28 @@
+/* --------------------------Nosotros----------------------------- */
+#galery {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+
+    .imagen_nosotros {
+        margin: 0px;
+        padding: 10px;
+    
+    }
+
+    img {
+        width: 100%;
+        height: 400px;
+
+        &:hover {
+            border: 3px solid white;
+            transition: all 0.1s;
+        }
+    }
+}
+
+.container__texto_nosotros {
+    @extend %flex-center;
+}
+
+/* --------------------------Nosotros----------------------------- */

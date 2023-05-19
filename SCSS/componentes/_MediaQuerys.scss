@@ -47,11 +47,16 @@
         display: flex;
         justify-content: center;
         background-color: #000;
+        z-index: -1;
+        position: relative;
 
         img {
             width: 100%;
         }
+
     }
+
+    
 
     .recuadro__mobile {
         width: auto;

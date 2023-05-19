@@ -132,6 +132,8 @@ header {
   flex-direction: row;
   flex-wrap: wrap;
   box-sizing: border-box;
+  justify-content: center;
+  gap: 20px;
 }
 
 .container-titulo {
@@ -494,27 +496,22 @@ footer a {
 
 /* --------------------------Productos----------------------------- */
 /* --------------------------Nosotros----------------------------- */
-.icono__filtro {
-  padding-right: 8px;
+#galery {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
 }
-
-.carru__nosotros {
-  width: auto;
+#galery .imagen_nosotros {
+  margin: 0px;
+  padding: 10px;
 }
-.carru__nosotros img {
-  height: auto;
-}
-
-.container__carru__nosotros {
-  padding-top: 20px;
-}
-
-.texto_nosotros {
-  padding-top: 30px;
-  padding-bottom: 30px;
-}
-.texto_nosotros img {
+#galery img {
   width: 100%;
+  height: 400px;
+}
+#galery img:hover {
+  border: 3px solid white;
+  transition: all 0.1s;
 }
 
 /* --------------------------Nosotros----------------------------- */
@@ -556,6 +553,8 @@ footer a {
     display: flex;
     justify-content: center;
     background-color: #000;
+    z-index: -1;
+    position: relative;
   }
   .carru__mobile img {
     width: 100%;
